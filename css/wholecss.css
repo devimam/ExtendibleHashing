@@ -29,6 +29,7 @@ body{
     overflow:auto;
     float:right;
     background-color:rgba(0,20,51,0.7);
+    overflow-x:hidden;
 }
 
 .block{
