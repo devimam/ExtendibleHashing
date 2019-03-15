@@ -26,7 +26,8 @@ body{
 
 #rightside{
     display:inline-block;
-    overflow:auto;
+    overflow-y:auto;
+    overflow-x:hidden;
     float:right;
     background-color:rgba(0,20,51,0.7);
     overflow-x:hidden;
